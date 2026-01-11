@@ -7,4 +7,6 @@ We were tasked to develop an analytical solution to evaluate the factuality of a
 + Contradiction: the answer is incorrect
 + Irrelevant: the answer has nothing to do with the question
 
+We achieved a custom-weighted prediction score of >98%.
+
 The code in this repository should be viewed in conjunction with the accompanying competition DataCamp notebook.
